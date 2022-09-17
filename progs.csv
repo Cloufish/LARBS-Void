@@ -82,6 +82,7 @@
 ,exa,"Better ls command"
 ,bat,"Better version of cat with highlighting"
 ,ripgrep,"Faster version of grep written in Rust"
+,fd,"find alternative written in Rust"
 G,https://github.com/LukeSmithxyz/mutt-wizard.git,"run this and get your email auto configured in minutes."
 G,https://github.com/PlatinumClaridge/dwmblocks.git,"serves as the modular status bar."
 G,https://github.com/PlatinumClaridge/dmenu.git,"runs commands and provides a UI for selection."
