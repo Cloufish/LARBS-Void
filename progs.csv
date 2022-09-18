@@ -8,6 +8,7 @@
 ,font-symbola,"provides unicode and emoji symbols."
 ,font-fira-ttf,"is the monospace font used in LARBS"
 ,libX11-devel,"is required for the compilation of some programs."
+,nerd-fonts,"Nerd-Fonts"
 ,libXft-devel,"is required for the compilation of some programs."
 ,gcr-devel,"is required for the compilation of some programs."
 ,fontconfig-devel,"is required for the compilation of some programs."
